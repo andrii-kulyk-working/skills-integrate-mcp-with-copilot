@@ -14,3 +14,13 @@ Remember, it's self-paced so feel free to take a break! ☕️
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
+## Governance Documents
+
+The project maintains canonical governance files in `docs/`:
+
+- [Constitution](docs/constitution.md)
+- [Bylaws](docs/bylaws.md)
+- [Honor Code](docs/honorcode.md)
+
+Please review and propose amendments via Pull Requests following the repository's contribution guidelines.
+
